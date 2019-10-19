@@ -1,4 +1,4 @@
 class Cat
-attr_accessor :maru
+attr_accessor :name
 
 end
